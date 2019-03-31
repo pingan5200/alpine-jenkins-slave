@@ -1,0 +1,5 @@
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+host gitlab.qipeipu.net
+hostname gitlab.qipeipu.net
+port 21001
